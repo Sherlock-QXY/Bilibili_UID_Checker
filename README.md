@@ -47,3 +47,14 @@ https://bili.shoyu.top/api/bili4.php?type=card&uid=1234567
 ## 免责声明
 
 本项目仅供学习与技术研究使用。请遵守 Bilibili 用户协议及相关法律法规，勿用于任何侵犯他人权益的用途。因使用本项目产生的一切后果由使用者自行承担。
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=sherlock-qxy%2Fbilibili_uid_checker&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=sherlock-qxy/bilibili_uid_checker&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=sherlock-qxy/bilibili_uid_checker&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=sherlock-qxy/bilibili_uid_checker&type=date&legend=top-left" />
+ </picture>
+</a>
